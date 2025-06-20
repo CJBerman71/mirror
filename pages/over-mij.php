@@ -3,4 +3,6 @@
 
 Hier wat tekst bla bla bla.
 <br>
-Gewoon even kijken hoe dat nou werkt met branches.
+Gewoon even kijken hoe dat nou werkt met branches. <br>
+Oh, wel leuk. Dan kun je dingen aanpassen terwijl je originele versie gewoon hetzelfde blijft.
+Super vetcool. <br>
