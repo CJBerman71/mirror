@@ -1,0 +1,3 @@
+<footer>
+De footer...
+</footer>
